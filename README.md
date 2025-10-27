@@ -655,6 +655,8 @@ flake8 main.py --ignore=E501,W503
 ### CTF Practice
 
 - [HackTheBox](https://www.hackthebox.eu/)
+- [PicoCTF](https://picoctf.org/)
+- [OverTheWire](https://overthewire.org/)
 - [TryHackMe](https://tryhackme.com/)
 - [PentesterLab](https://pentesterlab.com/)
 
@@ -729,10 +731,10 @@ Kalo script ini ngebantu kamu:
 **Buy me a coffee** (or indomie, gw ga picky):
 
 ```
-Bitcoin: 1AduhjangandekCoffeeAddressHere
-Ethereum: 0xAduhjangandekNeedsCoffeeNotETH
-Trakteer: https://trakteer.id/yourname
-PayPal: Mimpi kali ye
+Bitcoin: coming soon
+Ethereum: coming soon
+Trakteer: coming soon
+PayPal: coming soon
 ```
 
 Atau cara paling gampang: **Star this repo** ⭐
