@@ -1,4 +1,4 @@
-# 🔥 MultiBruteForce v2.1
+# 🔥 AduhJganDek v2.1
 
 > _"When your password is weaker than your wifi signal"_ 📶
 
@@ -14,7 +14,7 @@
 
 ## 🎭 What is this?
 
-Aduhjangandek adalah tool bruteforce yang terinspirasi dari Hydra, tapi dengan twist modern:
+AduhJgnDek adalah tool bruteforce yang terinspirasi dari Hydra, tapi dengan twist modern:
 
 - ✨ **Interactive Mode** - Pilih level skill kamu: Script Kiddie sampai Advanced (NEW! 🎉)
 - 🎯 **Dynamic payload templates** - Ga cuma `username` & `password`, customize sesukamu
