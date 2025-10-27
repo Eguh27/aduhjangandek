@@ -1,0 +1,6 @@
+POST /api/v1/login HTTP/1.1
+Host: api.target.com
+Content-Type: application/json
+User-Agent: Mozilla/5.0
+
+{"username":"{USER}","password":"{PASS}"}

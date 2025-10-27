@@ -1,0 +1,2 @@
+https://api.target1.com/login
+https://api.target2.com/login
