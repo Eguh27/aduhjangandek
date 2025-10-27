@@ -10,7 +10,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/yEguh27/aduhjangandek/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-**Advanced Bruteforce Engine with Interactive Mode** - Karena kadang script Hydra terlalu mainstream, dan GitHub kamu perlu isi selain fork repo orang 💀
+**Advanced Bruteforce Engine with Interactive Mode** - AI pun AI lah🙂‍↔️
 
 ## 🎭 What is this?
 
