@@ -1,4 +1,4 @@
-# 🔥 aduhjangandek v2.1
+# 🔥 MultiBruteForce v2.1
 
 > _"When your password is weaker than your wifi signal"_ 📶
 
